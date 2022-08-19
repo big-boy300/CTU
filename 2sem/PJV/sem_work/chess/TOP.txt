@@ -1,0 +1,10 @@
+1. pl1 - pl2 00:07 pl1 won
+2. pl1 - pl2 00:08 pl1 won
+3. pl1 - pl2 00:10 pl1 won
+4. pl1 - hey 00:15 pl1 won
+5. pl1 - pl2 00:35 pl1 won
+6. playa1 - playa2 00:57 playa1 won
+7. Vova - Roma 5:00 Vova won
+8. Zhenya - Igor 6:54 Draw
+9. pl1 - pl2 07:00 pl1 won
+10. semenvol - danilrom 7:37 danilrom won
