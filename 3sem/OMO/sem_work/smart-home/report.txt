@@ -1,0 +1,740 @@
+----------------------------------------
+House configuration: 
+House: 
+	Floor 0 rooms: 
+		Bathroom appliances: Smart lightning, Windows: 1
+		Kitchen appliances: AC, Microwave, Refrigerator, Smart lightning, Stove, Washing machine, Windows: 1
+		Living room appliances: AC, TV, Smart lightning, Windows: 1
+		Garage appliances: Smart lightning, Boiler, Sport elements: BICYCLE, BICYCLE, SKATEBOARD, Car: Porsche 911 Black, Windows: 1
+	Floor 1 rooms: 
+		Bathroom appliances: Smart lightning, Windows: 1
+		Children bedroom appliances: AC, Gaming console, Smart lightning, TV, Windows: 2
+		Parents bedroom appliances: TV, AC, Smart lightning, Windows: 2
+In this house lives: 
+	FATHER
+	MOTHER
+	ELDER_BROTHER
+	ELDER_SISTER
+	BABY
+	NURSE
+	Dog Richie
+	Cat Garfield
+	Minipig Jamie
+----------------------------------------
+SUMMER SIMULATION
+
+Day 1:
+
+Daytime: MORNING
+Family got up.
+Blinds opened in all rooms.
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+Nurse came home. She's in the kitchen.
+NURSE turned on lights.
+NURSE cooked Kebab on stove.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+NURSE did dishes.
+MOTHER went to Parents bedroom.
+MOTHER fed baby.
+FATHER went to Garage.
+FATHER went for a work and took the car.
+Car is already in use by FATHER. MOTHER must take a bus to get to work.
+ELDER_BROTHER went to Kitchen.
+ELDER_SISTER went to Kitchen.
+ELDER_SISTER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_BROTHER did dishes.
+ELDER_BROTHER went to Living room.
+ELDER_SISTER went to Living room.
+ELDER_BROTHER walked with a Dog Richie.
+ELDER_SISTER walked with a Minipig Jamie.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+
+
+Day time: AFTERNOON
+It is hot outside.
+All windows are closed.
+Turned on AC in Kitchen
+Turned on AC in Living room
+Turned on AC in Children bedroom
+Turned on AC in Parents bedroom
+ELDER_BROTHER went to Garage.
+ELDER_SISTER went to Garage.
+ELDER_BROTHER took a SKATEBOARD and went outside.
+ELDER_SISTER took a BICYCLE and went outside.
+NURSE went to Kitchen.
+NURSE cooked Ramen on stove.
+NURSE ate prepared food.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+ELDER_BROTHER returned home from sport. SKATEBOARD can be used by someone else now!
+ELDER_SISTER returned home from sport. BICYCLE can be used by someone else now!
+ELDER_BROTHER went to Kitchen.
+ELDER_BROTHER warmed up Burger in microwave.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER went to Living room.
+ELDER_SISTER fed Dog Richie.
+ELDER_SISTER fed Cat Garfield.
+ELDER_SISTER fed Minipig Jamie.
+NURSE went to Kitchen.
+There was a lot of dirty clothes, so NURSE did laundry.
+NURSE ordered some food in Wolt. Now family has something to eat.
+
+
+Day time: EVENING
+Blinds closed in all rooms.
+It is hot outside.
+All windows are opened.
+Turned off AC in KitchenTurned off AC in Living roomTurned off AC in Children bedroomTurned off AC in Parents bedroomNURSE is already in Kitchen
+NURSE cooked Beef on stove.
+FATHER returned home from work on a car. He is in Garage now.
+FATHER went to Living room.
+MOTHER returned home from work with a bus. She is in Living room now.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+BABY went to Kitchen.
+ELDER_BROTHER is already in Kitchen
+ELDER_SISTER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER ate prepared food.
+NURSE ate prepared food.
+FATHER ate prepared food.
+FATHER went to Living room.
+ELDER_BROTHER went to Living room.
+FATHER walked with a Dog Richie.
+ELDER_BROTHER walked with a Minipig Jamie.
+MOTHER fed baby.
+MOTHER took care of baby.
+FATHER went to Living room.
+FATHER watched a football match on TV.
+FATHER went to Parents bedroom.
+ELDER_SISTER went to Living room.
+ELDER_SISTER watched a TV series.
+MOTHER went to Parents bedroom.
+BABY went to Parents bedroom.
+ELDER_BROTHER went to Children bedroom.
+ELDER_BROTHER played Cyberpunk on PlayStation5.
+
+Day time: NIGHT
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+Blinds closed in all rooms.
+FATHER turned off lights.
+Family went to sleep
+
+Day time: MORNING
+
+Day 2:
+
+Daytime: MORNING
+Family got up.
+Blinds opened in all rooms.
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+NURSE turned on lights.
+NURSE cooked Pizza on stove.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+NURSE did dishes.
+MOTHER went to Parents bedroom.
+MOTHER fed baby.
+FATHER went to Garage.
+FATHER went for a work and took the car.
+Car is already in use by FATHER. MOTHER must take a bus to get to work.
+ELDER_BROTHER went to Kitchen.
+ELDER_SISTER went to Kitchen.
+ELDER_SISTER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_BROTHER did dishes.
+ELDER_BROTHER went to Living room.
+ELDER_SISTER went to Living room.
+ELDER_BROTHER walked with a Dog Richie.
+ELDER_SISTER walked with a Minipig Jamie.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+
+
+Day time: AFTERNOON
+It is hot outside.
+All windows are closed.
+Turned on AC in Kitchen
+Turned on AC in Living room
+Turned on AC in Children bedroom
+Turned on AC in Parents bedroom
+ELDER_BROTHER went to Garage.
+ELDER_SISTER went to Garage.
+ELDER_BROTHER took a SKATEBOARD and went outside.
+ELDER_SISTER took a BICYCLE and went outside.
+NURSE went to Kitchen.
+NURSE cooked Kebab on stove.
+NURSE ate prepared food.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+ELDER_BROTHER returned home from sport. SKATEBOARD can be used by someone else now!
+ELDER_SISTER returned home from sport. BICYCLE can be used by someone else now!
+ELDER_BROTHER went to Kitchen.
+ELDER_BROTHER warmed up Ramen in microwave.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER went to Living room.
+ELDER_SISTER fed Dog Richie.
+ELDER_SISTER fed Cat Garfield.
+ELDER_SISTER fed Minipig Jamie.
+NURSE ordered some food in Wolt. Now family has something to eat.
+
+
+Day time: EVENING
+Blinds closed in all rooms.
+It is hot outside.
+All windows are opened.
+Turned off AC in KitchenTurned off AC in Living roomTurned off AC in Children bedroomTurned off AC in Parents bedroomNURSE went to Kitchen.
+NURSE cooked Burger on stove.
+FATHER returned home from work on a car. He is in Garage now.
+FATHER went to Living room.
+MOTHER returned home from work with a bus. She is in Living room now.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+BABY went to Kitchen.
+ELDER_BROTHER is already in Kitchen
+ELDER_SISTER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER ate prepared food.
+NURSE ate prepared food.
+FATHER ate prepared food.
+FATHER went to Living room.
+ELDER_BROTHER went to Living room.
+FATHER walked with a Dog Richie.
+ELDER_BROTHER walked with a Minipig Jamie.
+MOTHER fed baby.
+MOTHER took care of baby.
+FATHER went to Living room.
+FATHER watched a football match on TV.
+FATHER went to Parents bedroom.
+ELDER_SISTER went to Living room.
+ELDER_SISTER watched a TV series.
+MOTHER went to Parents bedroom.
+BABY went to Parents bedroom.
+ELDER_BROTHER went to Children bedroom.
+ELDER_BROTHER played NBA2k20 on PlayStation5.
+
+Day time: NIGHT
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+Blinds closed in all rooms.
+FATHER turned off lights.
+Family went to sleep
+
+Day time: MORNING
+
+Day 3:
+
+Daytime: MORNING
+Family got up.
+Blinds opened in all rooms.
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+NURSE turned on lights.
+NURSE cooked Beef on stove.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+NURSE did dishes.
+MOTHER went to Parents bedroom.
+MOTHER fed baby.
+FATHER went to Garage.
+FATHER went for a work and took the car.
+Car is already in use by FATHER. MOTHER must take a bus to get to work.
+ELDER_BROTHER went to Kitchen.
+ELDER_SISTER went to Kitchen.
+ELDER_SISTER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_BROTHER did dishes.
+ELDER_BROTHER went to Living room.
+ELDER_SISTER went to Living room.
+ELDER_BROTHER walked with a Dog Richie.
+ELDER_SISTER walked with a Minipig Jamie.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+
+
+Day time: AFTERNOON
+It is hot outside.
+All windows are closed.
+Turned on AC in Kitchen
+Turned on AC in Living room
+Turned on AC in Children bedroom
+Turned on AC in Parents bedroom
+ELDER_BROTHER went to Garage.
+ELDER_SISTER went to Garage.
+ELDER_BROTHER took a SKATEBOARD and went outside.
+ELDER_SISTER took a BICYCLE and went outside.
+NURSE went to Kitchen.
+NURSE cooked Pizza on stove.
+NURSE ate prepared food.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+ELDER_BROTHER returned home from sport. SKATEBOARD can be used by someone else now!
+ELDER_SISTER returned home from sport. BICYCLE can be used by someone else now!
+ELDER_BROTHER went to Kitchen.
+ELDER_BROTHER warmed up Kebab in microwave.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER went to Living room.
+ELDER_SISTER fed Dog Richie.
+ELDER_SISTER fed Cat Garfield.
+ELDER_SISTER fed Minipig Jamie.
+NURSE went to Kitchen.
+There was a lot of dirty clothes, so NURSE did laundry.
+NURSE ordered some food in Wolt. Now family has something to eat.
+
+
+Day time: EVENING
+Blinds closed in all rooms.
+It is hot outside.
+All windows are opened.
+Turned off AC in KitchenTurned off AC in Living roomTurned off AC in Children bedroomTurned off AC in Parents bedroomNURSE is already in Kitchen
+NURSE cooked Ramen on stove.
+FATHER returned home from work on a car. He is in Garage now.
+FATHER went to Living room.
+MOTHER returned home from work with a bus. She is in Living room now.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+BABY went to Kitchen.
+ELDER_BROTHER is already in Kitchen
+ELDER_SISTER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER ate prepared food.
+NURSE ate prepared food.
+FATHER ate prepared food.
+FATHER went to Living room.
+ELDER_BROTHER went to Living room.
+FATHER walked with a Dog Richie.
+ELDER_BROTHER walked with a Minipig Jamie.
+MOTHER fed baby.
+MOTHER took care of baby.
+FATHER went to Living room.
+FATHER watched a football match on TV.
+FATHER went to Parents bedroom.
+ELDER_SISTER went to Living room.
+ELDER_SISTER watched a TV series.
+MOTHER went to Parents bedroom.
+BABY went to Parents bedroom.
+ELDER_BROTHER went to Children bedroom.
+ELDER_BROTHER played DOOM on PlayStation5.
+
+Day time: NIGHT
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+Blinds closed in all rooms.
+FATHER turned off lights.
+Family went to sleep
+
+Day time: MORNING
+
+Day 4:
+
+Daytime: MORNING
+Family got up.
+Blinds opened in all rooms.
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+NURSE turned on lights.
+NURSE cooked Burger on stove.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+NURSE did dishes.
+MOTHER went to Parents bedroom.
+MOTHER fed baby.
+FATHER went to Garage.
+FATHER went for a work and took the car.
+Car is already in use by FATHER. MOTHER must take a bus to get to work.
+ELDER_BROTHER went to Kitchen.
+ELDER_SISTER went to Kitchen.
+ELDER_SISTER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_BROTHER did dishes.
+ELDER_BROTHER went to Living room.
+ELDER_SISTER went to Living room.
+ELDER_BROTHER walked with a Dog Richie.
+ELDER_SISTER walked with a Minipig Jamie.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+
+
+Day time: AFTERNOON
+Gaming console is broken. Father was notified.
+It is hot outside.
+All windows are closed.
+Turned on AC in Kitchen
+Turned on AC in Living room
+Turned on AC in Children bedroom
+Turned on AC in Parents bedroom
+ELDER_BROTHER went to Garage.
+ELDER_SISTER went to Garage.
+ELDER_BROTHER took a SKATEBOARD and went outside.
+ELDER_SISTER took a BICYCLE and went outside.
+NURSE went to Kitchen.
+NURSE cooked Beef on stove.
+NURSE ate prepared food.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+ELDER_BROTHER returned home from sport. SKATEBOARD can be used by someone else now!
+ELDER_SISTER returned home from sport. BICYCLE can be used by someone else now!
+ELDER_BROTHER went to Kitchen.
+ELDER_BROTHER warmed up Pizza in microwave.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER went to Living room.
+ELDER_SISTER fed Dog Richie.
+ELDER_SISTER fed Cat Garfield.
+ELDER_SISTER fed Minipig Jamie.
+NURSE ordered some food in Wolt. Now family has something to eat.
+
+
+Day time: EVENING
+Gaming console is broken. Father was notified.
+Blinds closed in all rooms.
+It is hot outside.
+All windows are opened.
+Turned off AC in KitchenTurned off AC in Living roomTurned off AC in Children bedroomTurned off AC in Parents bedroomNURSE went to Kitchen.
+NURSE cooked Kebab on stove.
+FATHER returned home from work on a car. He is in Garage now.
+FATHER went to Living room.
+MOTHER returned home from work with a bus. She is in Living room now.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+BABY went to Kitchen.
+ELDER_BROTHER is already in Kitchen
+ELDER_SISTER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER ate prepared food.
+NURSE ate prepared food.
+FATHER ate prepared food.
+FATHER went to Living room.
+ELDER_BROTHER went to Living room.
+FATHER walked with a Dog Richie.
+ELDER_BROTHER walked with a Minipig Jamie.
+MOTHER fed baby.
+MOTHER took care of baby.
+FATHER went to Living room.
+FATHER watched a football match on TV.
+FATHER went to Parents bedroom.
+ELDER_SISTER went to Living room.
+ELDER_SISTER watched a TV series.
+MOTHER went to Parents bedroom.
+BABY went to Parents bedroom.
+ELDER_BROTHER went to Children bedroom.
+Gaming console is broken! ELDER_BROTHER cannot play console
+Gaming console is broken. Father was notified.
+
+Day time: NIGHT
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+Blinds closed in all rooms.
+FATHER turned off lights.
+Family went to sleep
+
+Day time: MORNING
+
+Day 5:
+
+Daytime: MORNING
+Family got up.
+Blinds opened in all rooms.
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+NURSE turned on lights.
+NURSE cooked Ramen on stove.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+NURSE did dishes.
+MOTHER went to Parents bedroom.
+MOTHER fed baby.
+FATHER went to Garage.
+FATHER went for a work and took the car.
+Car is already in use by FATHER. MOTHER must take a bus to get to work.
+ELDER_BROTHER went to Kitchen.
+ELDER_SISTER went to Kitchen.
+ELDER_SISTER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_BROTHER did dishes.
+ELDER_BROTHER went to Living room.
+ELDER_SISTER went to Living room.
+ELDER_BROTHER walked with a Dog Richie.
+ELDER_SISTER walked with a Minipig Jamie.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+
+
+Day time: AFTERNOON
+Gaming console is broken. Father was notified.
+It is hot outside.
+All windows are closed.
+Turned on AC in Kitchen
+Turned on AC in Living room
+Turned on AC in Children bedroom
+Turned on AC in Parents bedroom
+ELDER_BROTHER went to Garage.
+ELDER_SISTER went to Garage.
+ELDER_BROTHER took a SKATEBOARD and went outside.
+ELDER_SISTER took a BICYCLE and went outside.
+NURSE went to Kitchen.
+NURSE cooked Burger on stove.
+NURSE ate prepared food.
+NURSE went to Parents bedroom.
+NURSE took care of baby.
+ELDER_BROTHER returned home from sport. SKATEBOARD can be used by someone else now!
+ELDER_SISTER returned home from sport. BICYCLE can be used by someone else now!
+ELDER_BROTHER went to Kitchen.
+ELDER_BROTHER warmed up Beef in microwave.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER went to Living room.
+ELDER_SISTER fed Dog Richie.
+ELDER_SISTER fed Cat Garfield.
+ELDER_SISTER fed Minipig Jamie.
+NURSE went to Kitchen.
+There was a lot of dirty clothes, so NURSE did laundry.
+NURSE ordered some food in Wolt. Now family has something to eat.
+
+
+Day time: EVENING
+Gaming console is broken. Father was notified.
+Blinds closed in all rooms.
+It is hot outside.
+All windows are opened.
+Turned off AC in KitchenTurned off AC in Living roomTurned off AC in Children bedroomTurned off AC in Parents bedroomNURSE is already in Kitchen
+NURSE cooked Pizza on stove.
+FATHER returned home from work on a car. He is in Garage now.
+FATHER went to Living room.
+MOTHER returned home from work with a bus. She is in Living room now.
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+BABY went to Kitchen.
+ELDER_BROTHER is already in Kitchen
+ELDER_SISTER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER ate prepared food.
+NURSE ate prepared food.
+FATHER ate prepared food.
+FATHER went to Living room.
+ELDER_BROTHER went to Living room.
+FATHER walked with a Dog Richie.
+ELDER_BROTHER walked with a Minipig Jamie.
+MOTHER fed baby.
+MOTHER took care of baby.
+FATHER went to Living room.
+FATHER watched a football match on TV.
+FATHER went to Parents bedroom.
+ELDER_SISTER went to Living room.
+ELDER_SISTER watched a TV series.
+MOTHER went to Parents bedroom.
+BABY went to Parents bedroom.
+ELDER_BROTHER went to Children bedroom.
+Gaming console is broken! ELDER_BROTHER cannot play console
+Gaming console is broken. Father was notified.
+Father reads Manual for Gaming console.
+Father repaired Gaming console. It works now!
+
+Day time: NIGHT
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+Blinds closed in all rooms.
+FATHER turned off lights.
+Family went to sleep
+
+Day time: MORNING
+
+Day 6:
+
+Daytime: MORNING
+Family got up.
+Blinds opened in all rooms.
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+FATHER went to Kitchen.
+MOTHER went to Kitchen.
+ELDER_BROTHER went to Living room.
+ELDER_SISTER is already in Living room
+ELDER_BROTHER walked with a Dog Richie.
+ELDER_SISTER walked with a Minipig Jamie.
+NURSE cooked Kebab on stove.
+ELDER_SISTER went to Kitchen.
+ELDER_BROTHER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER ate prepared food.
+MOTHER did dishes.
+FATHER ordered some food in Wolt. Now family has something to eat.
+
+Day time: AFTERNOON
+FATHER went to Living room.
+FATHER watched a football match on TV.
+ELDER_BROTHER went to Living room.
+ELDER_BROTHER went to Children bedroom.
+ELDER_BROTHER played NBA2k20 on PlayStation5.
+ELDER_SISTER went to Garage.
+ELDER_SISTER took a BICYCLE and went outside.
+MOTHER went to Parents bedroom.
+MOTHER fed baby.
+FATHER went to Garage.
+The sport elementBICYCLE is already in use by ELDER_SISTER.
+MOTHER went to Kitchen.
+There was a lot of dirty clothes, so MOTHER did laundry.
+
+Day time: EVENING
+ELDER_SISTER returned home from sport. BICYCLE can be used by someone else now!
+ELDER_SISTER went to Living room.
+ELDER_SISTER watched a TV series.
+FATHER went to Living room.
+ELDER_BROTHER went to Living room.
+ELDER_BROTHER walked with a Dog Richie.
+FATHER walked with a Minipig Jamie.
+MOTHER warmed up Ramen in microwave.
+ELDER_SISTER went to Kitchen.
+ELDER_BROTHER went to Kitchen.
+FATHER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER ate prepared food.
+ELDER_BROTHER did dishes.
+ELDER_SISTER went to Children bedroom.
+ELDER_SISTER played FIFA22 on PlayStation5.
+ELDER_BROTHER went to Children bedroom.
+MOTHER went to Parents bedroom.
+MOTHER fed baby.
+MOTHER watches a film.
+
+Day time: NIGHT
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+Blinds closed in all rooms.
+FATHER turned off lights.
+Family went to sleep
+
+Day time: MORNING
+
+Day 7:
+
+Daytime: MORNING
+Family got up.
+Blinds opened in all rooms.
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+FATHER is already in Kitchen
+MOTHER went to Kitchen.
+ELDER_BROTHER went to Living room.
+ELDER_SISTER went to Living room.
+ELDER_BROTHER walked with a Dog Richie.
+ELDER_SISTER walked with a Minipig Jamie.
+NURSE cooked Burger on stove.
+ELDER_SISTER went to Kitchen.
+ELDER_BROTHER went to Kitchen.
+FATHER ate prepared food.
+MOTHER ate prepared food.
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER ate prepared food.
+MOTHER did dishes.
+FATHER ordered some food in Wolt. Now family has something to eat.
+
+Day time: AFTERNOON
+FATHER went to Living room.
+FATHER watched a football match on TV.
+ELDER_BROTHER went to Living room.
+ELDER_BROTHER went to Children bedroom.
+ELDER_BROTHER played NBA2k20 on PlayStation5.
+ELDER_SISTER went to Garage.
+ELDER_SISTER took a BICYCLE and went outside.
+MOTHER went to Parents bedroom.
+MOTHER fed baby.
+FATHER went to Garage.
+The sport elementBICYCLE is already in use by ELDER_SISTER.
+
+Day time: EVENING
+ELDER_SISTER returned home from sport. BICYCLE can be used by someone else now!
+ELDER_SISTER went to Living room.
+ELDER_SISTER watched a TV series.
+FATHER went to Living room.
+ELDER_BROTHER went to Living room.
+ELDER_BROTHER walked with a Dog Richie.
+FATHER walked with a Minipig Jamie.
+ELDER_SISTER went to Kitchen.
+ELDER_BROTHER went to Kitchen.
+FATHER went to Kitchen.
+FATHER ate prepared food.
+MOTHER must go to the kitchen!
+ELDER_BROTHER ate prepared food.
+ELDER_SISTER ate prepared food.
+ELDER_BROTHER did dishes.
+ELDER_SISTER went to Children bedroom.
+ELDER_SISTER played DOOM on PlayStation5.
+ELDER_BROTHER went to Children bedroom.
+MOTHER is already in Parents bedroom
+MOTHER fed baby.
+MOTHER watches a film.
+
+Day time: NIGHT
+It is cold outside.
+All windows are closed.
+Boiler in Garage turned off
+Blinds closed in all rooms.
+FATHER turned off lights.
+Family went to sleep
+
+Day time: MORNING
+---------------------------------------------------------
+APPLIANCES CONSUMPTION REPORT
+Smart lightning in Bathroom consumed 0,58 kWh
+AC in Kitchen consumed 2,55 kWh
+Microwave in Kitchen consumed 3,04 kWh
+Refrigerator in Kitchen consumed 6,94 kWh
+Smart lightning in Kitchen consumed 7,45 kWh
+Stove in Kitchen consumed 6,47 m^3
+Washing machine in Kitchen consumed 2,12 kWh
+AC in Living room consumed 1,90 kWh
+TV in Living room consumed 5,35 kWh
+Smart lightning in Living room consumed 12,10 kWh
+Smart lightning in Garage consumed 7,00 kWh
+Boiler in Garage consumed 0,66 m^3
+Smart lightning in Bathroom consumed 0,88 kWh
+AC in Children bedroom consumed 2,54 kWh
+Gaming console in Children bedroom consumed 1,86 kWh
+Smart lightning in Children bedroom consumed 4,68 kWh
+TV in Children bedroom consumed 1,95 kWh
+TV in Parents bedroom consumed 0,80 kWh
+AC in Parents bedroom consumed 1,42 kWh
+Smart lightning in Parents bedroom consumed 4,06 kWh
+----------------------------------------------------------
