@@ -5,7 +5,12 @@
 #include <math.h>
 
 int numOfNodes, numOfRedNodes;
- 
+
+/**
+ * assignment
+ * https://cw.felk.cvut.cz/brute/data/ae/release/2021z_b4b33alg/alg_cz_2021z/evaluation/input.php?task=beads
+ */
+
 struct node {
     int key;
     struct node* left;
