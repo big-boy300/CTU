@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"
+             version="2.2">
+    <persistence-unit name="default">
+
+        <class>tables.InvitationEntity</class>
+        <class>tables.LanguageschoolEntity</class>
+        <class>tables.LessonEntity</class>
+        <class>tables.NumberEntity</class>
+        <class>tables.PaymentEntity</class>
+        <class>tables.PaymentcontrolEntity</class>
+        <class>tables.PersonEntity</class>
+        <class>tables.StaffEntity</class>
+        <class>tables.StudentEntity</class>
+        <class>tables.StudentaccountEntity</class>
+        <class>tables.StudentaccountownershipEntity</class>
+        <class>tables.StudygroupEntity</class>
+        <class>tables.StudygroupcreationEntity</class>
+        <class>tables.TeacherEntity</class>
+        <class>tables.TeacheraccountEntity</class>
+        <class>tables.TeacheraccountownershipEntity</class>
+        <class>tables.WebsiteEntity</class>
+        <class>tables.WebsiteownershipEntity</class>
+        <properties>
+            <property name="hibernate.connection.url" value="jdbc:postgresql://slon.felk.cvut.cz:5432/danilrom"/>
+            <property name="hibernate.connection.driver_class" value="org.postgresql.Driver"/>
+            <property name="hibernate.connection.username" value="danilrom"/>
+            <property name="hibernate.connection.password" value="danilrom_DBS212"/>
+        </properties>
+    </persistence-unit>
+</persistence>
