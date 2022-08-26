@@ -1,5 +1,6 @@
 # CTU codes 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&lines=I+Love+Programming)](https://git.io/typing-svg) 
+In this repository can be found assignments and projects that I accomplished during my studies at the Czech Technical University in Prague. I strongly recommend not to copy any code published here to avoid plagiarism incidents and all the consequences. All code is published here for studying purposes. 
+
 
 # 1 semester
   - [PRP](https://github.com/big-boy300/CTU/tree/main/1sem/PRP) (Procedural Programming / Procedurální programování)
