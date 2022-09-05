@@ -14,7 +14,7 @@ In this repository can be found assignments and projects that I accomplished dur
   - LGR (Logic and Graphs / Logika a grafy)
   - MA1 (Mathematical analysis 1 / Matematická analýza 1)
 # 3 semester
-  - [ALG](https://github.com/big-boy300/CTU/tree/main/3sem/ALG) (Algorithmization / Algoritmizace)
+  - [ALG](https://github.com/big-boy300/CTU/tree/main/3sem/ALG) (Algorithms / Algoritmizace)
   - [OMO](https://github.com/big-boy300/CTU/tree/main/3sem/OMO) (Object modeling / Objektový návrh a modelování)
   - [OSY](https://github.com/big-boy300/CTU/tree/main/3sem/OSY) (Operating systems / Operační systémy)
   - PST (Probability and Statistics / Pravděpodobnost a statistika)
