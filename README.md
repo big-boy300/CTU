@@ -10,7 +10,7 @@ In this repository can be found assignments and projects that I accomplished dur
 # 2 semester
   - [PJV](https://github.com/big-boy300/CTU/tree/main/2sem/PJV) (Programming in Java / Programování v Java)
   - [APO](https://github.com/big-boy300/CTU/tree/main/2sem/APO) (Computer Architectures / Architektura počítačů)
-  - PSIA (Computer Networks / Počítačové sítě)
+  - [PSIA](https://github.com/big-boy300/CTU/tree/main/2sem/PSIA) (Computer Networks / Počítačové sítě)
   - LGR (Logic and Graphs / Logika a grafy)
   - MA1 (Mathematical analysis 1 / Matematická analýza 1)
 # 3 semester
